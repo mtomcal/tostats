@@ -1,5 +1,5 @@
 {
-  "name": "Americano",
+  "name": "TOStats",
   "version": "0.0.5",
   "dependencies": {
     "express": "2.x",
