@@ -7,7 +7,7 @@ SongModel = new Db.Schema
     index: true,
   song_id:
     type: String,
-    unique: true
+    index: true,
   votes: Number,
   listeners: Number,
   date_played: Date
