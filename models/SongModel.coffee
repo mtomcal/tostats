@@ -4,7 +4,7 @@ SongModel = new Db.Schema
   artist: String,
   user_id: 
     type: String,
-    unique: true
+    index: true,
   song_id:
     type: String,
     unique: true
